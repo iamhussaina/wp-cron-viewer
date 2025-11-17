@@ -8,7 +8,7 @@
  * @package WPCronViewer
  * @version     1.0.0
  * @author      Hussain Ahmed Shrabon
- * @license     MIT  GPL-2.0-or-later
+ * @license     GPL-2.0-or-later
  * @link        https://github.com/iamhussaina
  * @textdomain  hussainas
  */
